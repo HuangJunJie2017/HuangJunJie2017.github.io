@@ -8,9 +8,9 @@
 
 《The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation》
 
-arxiv: https://arxiv.org/abs/1911.07524
+arxiv: [https://arxiv.org/abs/1911.07524](https://arxiv.org/abs/1911.07524)
 
-github:https://github.com/HuangJunJie2017/UDP-Pose
+github:[https://github.com/HuangJunJie2017/UDP-Pose](https://github.com/HuangJunJie2017/UDP-Pose)
 
 ## 教育经历
 
