@@ -26,7 +26,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           <tr style="padding:0px">
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <a href="images/huangjunjie.jpg"><img style="width:75%;max-width:100%" alt="profile photo" src="images/JianhaoJiao_2.jpg" class="hoverZoomLink"></a>
+              <a href="images/huangjunjie.jpg"><img style="width:75%;max-width:100%" alt="profile photo" src="images/huangjunjie.jpg" class="hoverZoomLink"></a>
             </td>
             <td style="padding:2.5%;width:63%;vertical-align:middle">
               <p style="text-align:left">
