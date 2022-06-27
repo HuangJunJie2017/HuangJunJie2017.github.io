@@ -6,15 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Apoorve Chokshi"
+locale                   : "China"
+title                    : "Junjie Huang"
 title_separator          : "-"
-name                     : &name "Apoorve Chokshi"
-# description              : &description "educational researcher<br/>computer science education"
-description              : &description "educational researcher"
-url                      : https://achokshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Junjie Huang"
+description              : &description "Player in visual perception"
+url                      : https://HuangJunJie2017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "achokshi.github.io"
+repository               : "HuangJunJie2017.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &apoorvec
+  username               : #&apoorvec
 facebook:
   username               :
   app_id                 :
@@ -81,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Apoorve Chokshi"
-  avatar           : "apoorve.png"
-  bio              : "PhD student, Werklund School of Education, Learning Sciences / I am interested in exploring the ways to make CS Education more equitable"
-  location         : "Calgary, AB"
-  employer         :
+  name             : "Junjie Huang"
+  avatar           : "huangjunjie.png"
+  bio              : "Algorithm Researcher in Phigent Robotics"
+  location         : "Beijing, China"
+  employer         : "Phigent Robotics"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=r5SuKqAAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=oNRbokEAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "achokshi"
+  github           : "HuangJunJie2017"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4218-6811"
+  orcid            : "https://orcid.org/0000-0002-2853-2549"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "apoorvec"
+  twitter          : #"apoorvec"
   vine             :
   weibo            :
   xing             :
@@ -177,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: false
