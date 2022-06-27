@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*I am Junjie Huang, currently an algorithm researcher in PhiGent Robotics. Before that, I worked in Xforward AI Technology Co., LTD.*
+*I am Junjie Huang, currently an algorithm researcher in PhiGent Robotics. Before that, I worked for Xforward AI Technology Co., LTD.*
 
 *I received my M.Eng. from Institute of Automation, Chinese Academy of Sciences in 2019 and B.Eng. from SCUT(South China University of Technology) in 2016.*
 
