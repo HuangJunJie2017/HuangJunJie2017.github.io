@@ -23,8 +23,8 @@ redirect_from:
   {% endfor %}</ul>
 
 ### Leaderboard Results
-* **2022-04-18** Rank 1st in nuScenes object detection vision track with 56.9% NDS. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][name: BEVDet4D]
-* **2022-03-28** Rank 1st in nuScenes object detection vision track with 53.9% NDS. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][name: BEVDet4D]
+* **2022-04-18** Rank 1st in nuScenes object detection vision track with 56.9% NDS. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][Name: BEVDet4D]
+* **2022-03-28** Rank 1st in nuScenes object detection vision track with 53.9% NDS. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][Name: BEVDet4D]
 * **2022-02-28** Rank 1st in nuScenes object detection vision track with 48.2% NDS and 42.2% mAP. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][Name: BEVDet-beta]
 * **2021-12-20** Rank 1st in nuScenes object detection vision track with 46.3% NDS and 39.8% mAP. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][Name: BEVDet-pure]
 * **2021-08-06** Rank 1st in COCO Instance Segmentation track with 53.7 mAP. [[LeaderBoard](https://competitions.codalab.org/competitions/20796#results)]
