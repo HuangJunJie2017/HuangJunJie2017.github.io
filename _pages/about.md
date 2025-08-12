@@ -12,9 +12,11 @@ redirect_from:
 
 *I received my M.Eng. from Institute of Automation, Chinese Academy of Sciences in 2019 and B.Eng. from SCUT(South China University of Technology) in 2016.*
 
-*My research mainly focus on visual perception and the interest areas include 2D/3D object detection, BEV semantic segmentation, 2D Human Pose Estimation, Face Recognition, Facial Landmark Detection, Optical Flow, Motion Detection, Visual Servo. Recently, I mainly focus on the visual perception problem in autonomous driving.*
+*Recently, I mainly focus on visual perception and E2E autonomous driving; My historical interest areas include 2D/3D object detection, BEV semantic segmentation, 2D Human Pose Estimation, Face Recognition, Facial Landmark Detection, Optical Flow, Motion Detection, Visual Servo.*
 
 ### News
+* **2025-03-27** One paper in 3D line detection is accepted to CVPR2025.
+* **2024-07-09** One paper in 3D object detection with LiDAR-camera Fusion is accepted to ECCV2024.
 * **2022-04-18** Rank 1st in nuScenes object detection vision track with 56.9% NDS and 45.1% mAP. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)][[Technical Report BEVDet4D](https://arxiv.org/abs/2203.17054)][[Project](https://github.com/HuangJunJie2017/BEVDet)]
 * **2022-02-28** Rank 1st in nuScenes object detection vision track with 48.2% NDS and 42.2% mAP. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)]
 * **2021-12-20** Rank 1st in nuScenes object detection vision track with 46.3% NDS and 39.8% mAP. [[LeaderBoard](https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera)]
